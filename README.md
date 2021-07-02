@@ -3,21 +3,21 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; I’m currently learning Flutter Application Development.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
-- 💼 &nbsp; Fullstack web developer.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence .
-- ✍️ &nbsp; Trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 💼 &nbsp; Fullstack Web Developer.
+- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
+- ✍️ &nbsp; Trying out latest design trends as hobbies.
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack & DevOps Technologies</h3>
 
-- 💻 &nbsp; Python | JavaScript | Node.js | 
-- 🌐 &nbsp; React | React-native | Flutter | HTML | CSS |  | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | MongoDB | Nginx
-- 🔧 &nbsp;  PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Figma | 
+- 💻 &nbsp; Python(Flask) | JavaScript | Node.js
+- 🌐 &nbsp; React | React-Native | Flutter
+- 🛢 &nbsp; MySQL | MongoDB | Oracle | Nginx | Apache
+- 🔧 &nbsp; Git | Github | Bitbucket | AWS | Digital Ocean
+- 🖥 &nbsp; Adobe Xd | Figma
 
 <br>
 
