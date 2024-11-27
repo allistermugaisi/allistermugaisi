@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
-- 💼 &nbsp; Fullstack Web Developer.
-- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
+- 💼 &nbsp; Fullstack Software Engineer.
+- 🌱 &nbsp; Enthusiast in machine learning and artificial intelligence.
 - ✍️ &nbsp; Trying out latest design trends as hobbies.
 - ☕  &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
