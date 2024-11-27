@@ -4,19 +4,19 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Fullstack Web Developer.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
-- ✍️  &nbsp; Trying out latest design trends as hobbies.
+- ✍️ &nbsp; Trying out latest design trends as hobbies.
 - ☕  &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress.
 
 <h3>🛠 Tech Stack & DevOps Technologies</h3>
 
-- 💻 &nbsp; Python(Flask) | JavaScript | Node.js
-- 🌐 &nbsp; React | React-Native
-- 🛢 &nbsp; MySQL | MongoDB | Oracle | Nginx | Apache
-- 🔧 &nbsp; Git | Github | Bitbucket | AWS | Digital Ocean
-- 🖥 &nbsp; Adobe Xd | Figma
+- 💻 &nbsp; Java | Python(Flask) | JavaScript | Typescript | Node.js
+- 🌐 &nbsp; React | React-Native | NextJS
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSQL | Cassandra | Redis
+- 🔧 &nbsp; Nginx | Apache | Traefik
+- 🔧 &nbsp; Git | Github | Bitbucket | AWS | Jenkins | CircleCI
+- 🔧 &nbsp; Docker | Kubernetes | RabbitMQ | Linux | Unix
 
 <br>
 
