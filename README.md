@@ -26,7 +26,7 @@ My experience spans software development, infrastructure operations, system admi
 
 **Programming & Backend Development**
 
-Java · JavaScript · TypeScript · Node.js
+PHP · Java · JavaScript · TypeScript · Node.js
 
 **Cloud, Platform & DevOps**
 
