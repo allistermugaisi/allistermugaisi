@@ -1,6 +1,6 @@
 # Hey, I'm Allister Mugaisi
 
-### Platform & Infrastructure Engineer | Software Engineer
+### SOFTWARE ENGINEER | BACKEND, CLOUD ARCHITECT & DEVOPS
 
 I'm a Software Engineer with a strong interest in **Platform Engineering, Cloud Infrastructure, Distributed Systems and Network Engineering**.
 
